@@ -7,7 +7,7 @@ A new Flutter project.
 ```
 String baseUrl = "http://<IP-Address>/api";
 ```
-Add Your IP Address here
+Add Your IP Address in lib/HomePage.dart
 
 ### To run
 - Clone the Repository.
